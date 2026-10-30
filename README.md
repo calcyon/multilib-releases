@@ -26,6 +26,9 @@ Each release's page lists what changed.
 - Start installed games from MultiLib, with playtime tracking and save backups.
 - Compact, detailed and grid views, with columns and sorting you can change.
 - Import from xLibrary.
+- For you: games from F95's latest list ranked by your taste, with filters for engine, status and score.
+- Update rhythm: an estimate of how often a game updates and when the next update might come.
+- F95 score trend: arrows show how far a game's score has moved since MultiLib first read it.
 
 ## Anime
 
@@ -35,6 +38,11 @@ Each release's page lists what changed.
 - Anime folder scanning, with Play buttons for your episodes.
 - Automatic episode tracking in MPC-HC and, through the extension, on the streaming sites you switch on (Miruro, AnimeSuge, Animepahe).
 - Character lists, notes, dates and rewatch details.
+
+## Statistics and tabs
+
+- A Stats page with separate figures for each tab.
+- Settings can hide Games or Anime if you don't use them. Their data and background checks carry on.
 
 ## Browser extension
 
