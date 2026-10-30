@@ -44,6 +44,11 @@ Each release's page lists what changed.
 - A Stats page with separate figures for each tab.
 - Settings can hide Games or Anime if you don't use them. Their data and background checks carry on.
 
+## Shortcuts
+
+- Every shortcut can be changed in Settings, using a key combination or a mouse button, and put back to its default.
+- The mouse back button returns to the list from a game or anime page.
+
 ## Browser extension
 
 - Adds your library's status to F95zone thread and Latest Updates pages, with a quick add button.
