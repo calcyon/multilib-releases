@@ -47,7 +47,8 @@ Each release's page lists what changed.
 ## Shortcuts
 
 - Every shortcut can be changed in Settings, using a key combination or a mouse button, and put back to its default.
-- The mouse back button returns to the list from a game or anime page.
+- The mouse back button returns to the list from a game or anime page, where you left it.
+- The mouse forward button opens the last game or anime page again.
 
 ## Browser extension
 
