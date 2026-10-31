@@ -4,12 +4,6 @@ A Windows desktop library for your F95zone games and your anime, which runs quie
 
 This repository holds the releases and documentation. The source code isn't public.
 
-## Updating to 1.2.0? Do this first
-
-**If you use the portable version with the browser extension, you need to link the extension again, one time.** Everyone else only has to reload it. The steps are at the top of [the 1.2.0 release page](../../releases/tag/v1.2.0). Your library isn't touched either way.
-
-Versions before 1.2.0 can't tell you about new releases, so check here for this one. From 1.2.0 on, MultiLib tells you itself.
-
 ## Download
 
 Open [the latest release](../../releases/latest) and pick what you need:
