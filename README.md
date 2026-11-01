@@ -1,6 +1,6 @@
 # MultiLib
 
-A Windows desktop library for your F95zone games and your anime, which runs quietly in the tray. Your library is stored on your own PC.
+A Windows desktop library for your F95zone games, anime and manga, which runs quietly in the tray. Your library is stored on your own PC.
 
 This repository holds the releases and documentation. The source code isn't public.
 
@@ -48,9 +48,21 @@ MultiLib checks this page once a day and tells you when a new version is out, wi
 - Automatic episode tracking in MPC-HC and, through the extension, on the streaming sites you switch on (Miruro, AnimeSuge, Animepahe).
 - Character lists, notes, dates and rewatch details.
 
+## Manga
+
+- Lists that sync with AniList, or are kept only on your PC.
+- Import a Tachiyomi or Mihon backup as your list, with its titles, read chapters and folders. Importing a newer backup updates the list and asks about differences with AniList.
+- If a backup moves a series to another source, MultiLib follows it. Entries it can't place are listed for you to match to another entry or remove.
+- Link series to AniList one by one or with a scan of the whole list.
+- A long-strip reader, and a search across reading sites, each of which can be switched off.
+- Checks for new chapters, on a schedule or when you ask, with Windows notifications, progress and a way to cancel.
+- The chapter count shows a total only for series that have ended.
+- An optional sync list of the chapters you read in MultiLib, for marking them as read in Tachiyomi, Mihon or another reader. It can also be opened on your phone over home Wi-Fi.
+
 ## Statistics and tabs
 
 - A Stats page with separate figures for each tab.
+- Optional folders in the Games, Anime and Manga tabs.
 - Settings can hide Games or Anime if you don't use them. Their data and background checks carry on.
 
 ## Look and feel
@@ -77,7 +89,7 @@ To install it, open your browser's extensions page, turn on developer mode and c
 ## First steps
 
 - **F95zone:** log in from MultiLib's settings for covers, full-size screenshots and download links. Update checks work without logging in.
-- **MyAnimeList / AniList:** sign-in uses your own free client ID, which you enter under Settings → Anime.
+- **MyAnimeList / AniList:** sign-in uses your own free client ID, which you enter under Settings → Anime. Manga uses the same AniList client ID.
 
 ## Your data
 
